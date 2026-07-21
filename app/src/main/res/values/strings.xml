@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PS AI Assistant</string>
+    <string name="new_chat">নতুন চ্যাট</string>
+    <string name="send">পাঠান</string>
+</resources>
